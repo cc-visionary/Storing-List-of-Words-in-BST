@@ -1,3 +1,12 @@
+/**
+ * Main Driver Class
+ * <p>Note: in this Word List, contractions are seperated into 2 whole words.</p>
+ * 
+ * @authors: Christopher Lim
+ *           Ivan Jerwin Lim
+ *           James Matthew Sy
+ */
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
@@ -21,16 +30,26 @@ class Main {
 
     Scanner sc = new Scanner(inputFile);
     // loops ever line of the File
-	while (sc.hasNextLine()){
-		String line = sc.nextLine();
-        // loop every word
-        for(String str : line.split("\\s")) {
-            // format the string to make it into lower case
-            // then remove all symbols
-            String formattedString = str.toLowerCase().replaceAll("[^a-z]", "");
-            if(formattedString.length() >= 3) BST.insertWord(formattedString);
-        }
-	}
+    while (sc.hasNextLine()){
+      String line = sc.nextLine();
+      // converts it into lowercase
+      line = line.toLowerCase();
+      // format word shortcuts/contractions into the whole seperated words
+      line = line.replaceAll("'ll", " will");
+      line = line.replaceAll("'re", " are");
+      line = line.replaceAll("'m", " am");
+      line = line.replaceAll("n't", " not");
+      line = line.replaceAll("'s", " is");
+      line = line.replaceAll("'ve", " have");
+      line = line.replaceAll("'d", " would");
+      // replace all symbol with a space
+      line = line.replaceAll("[^a-z]", " ");
+
+      // loop every word
+      for(String str : line.split("\\s")) {
+        if(str.length() >= 3) BST.insertWord(str);
+      }
+    }
     
     // searches words to prove search is working
     // System.out.println(BST.searchWord("hello"));
