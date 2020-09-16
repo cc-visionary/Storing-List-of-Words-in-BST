@@ -1,111 +1,111 @@
-Word: all, Count: 4
-Word: almost, Count: 1
-Word: alone, Count: 3
-Word: along, Count: 1
-Word: always, Count: 2
-Word: and, Count: 14
-Word: apart, Count: 3
-Word: are, Count: 7
-Word: away, Count: 4
-Word: band, Count: 1
-Word: bed, Count: 1
-Word: but, Count: 3
-Word: came, Count: 1
-Word: chance, Count: 1
-Word: cried, Count: 3
-Word: cry, Count: 1
-Word: dad, Count: 2
-Word: daddy, Count: 6
-Word: dance, Count: 1
-Word: danced, Count: 1
-Word: daughter, Count: 6
-Word: day, Count: 3
-Word: dry, Count: 1
-Word: dying, Count: 1
-Word: ear, Count: 1
-Word: eyes, Count: 1
-Word: father, Count: 2
-Word: fight, Count: 1
-Word: fine, Count: 1
-Word: first, Count: 1
-Word: for, Count: 1
-Word: front, Count: 1
-Word: girl, Count: 2
-Word: had, Count: 1
-Word: hand, Count: 2
-Word: hate, Count: 1
-Word: have, Count: 5
-Word: head, Count: 1
-Word: heart, Count: 3
-Word: held, Count: 2
-Word: her, Count: 8
-Word: here, Count: 3
-Word: hide, Count: 1
-Word: him, Count: 2
-Word: his, Count: 8
-Word: hospital, Count: 1
-Word: into, Count: 1
-Word: just, Count: 1
-Word: kissed, Count: 1
-Word: later, Count: 1
-Word: leaned, Count: 1
-Word: leave, Count: 3
-Word: led, Count: 1
-Word: little, Count: 5
-Word: looked, Count: 2
-Word: love, Count: 2
-Word: loving, Count: 1
-Word: memories, Count: 2
-Word: might, Count: 1
-Word: mine, Count: 1
-Word: miss, Count: 3
-Word: need, Count: 3
-Word: next, Count: 1
-Word: night, Count: 1
-Word: not, Count: 6
-Word: okay, Count: 1
-Word: our, Count: 2
-Word: play, Count: 1
-Word: please, Count: 3
-Word: proud, Count: 1
-Word: quiet, Count: 2
-Word: room, Count: 1
-Word: sad, Count: 2
-Word: said, Count: 1
-Word: sat, Count: 4
-Word: saw, Count: 2
-Word: school, Count: 3
-Word: she, Count: 7
-Word: song, Count: 1
-Word: started, Count: 1
-Word: stay, Count: 4
-Word: still, Count: 1
-Word: strength, Count: 1
-Word: tear, Count: 1
-Word: tears, Count: 1
-Word: that, Count: 2
-Word: the, Count: 5
-Word: their, Count: 1
-Word: then, Count: 4
-Word: there, Count: 1
-Word: they, Count: 2
-Word: though, Count: 3
-Word: tight, Count: 1
-Word: together, Count: 5
-Word: took, Count: 1
-Word: tried, Count: 1
-Word: very, Count: 1
-Word: waiting, Count: 1
-Word: walked, Count: 3
-Word: want, Count: 1
-Word: was, Count: 2
-Word: watched, Count: 1
-Word: way, Count: 1
-Word: wedding, Count: 1
-Word: when, Count: 3
-Word: whispered, Count: 1
-Word: will, Count: 8
-Word: wished, Count: 1
-Word: with, Count: 1
-Word: you, Count: 16
-Word: your, Count: 3
+all, 4
+almost, 1
+alone, 3
+along, 1
+always, 2
+and, 14
+apart, 3
+are, 7
+away, 4
+band, 1
+bed, 1
+but, 3
+came, 1
+chance, 1
+cried, 3
+cry, 1
+dad, 2
+daddy, 6
+dance, 1
+danced, 1
+daughter, 6
+day, 3
+dry, 1
+dying, 1
+ear, 1
+eyes, 1
+father, 2
+fight, 1
+fine, 1
+first, 1
+for, 1
+front, 1
+girl, 2
+had, 1
+hand, 2
+hate, 1
+have, 5
+head, 1
+heart, 3
+held, 2
+her, 8
+here, 3
+hide, 1
+him, 2
+his, 8
+hospital, 1
+into, 1
+just, 1
+kissed, 1
+later, 1
+leaned, 1
+leave, 3
+led, 1
+little, 5
+looked, 2
+love, 2
+loving, 1
+memories, 2
+might, 1
+mine, 1
+miss, 3
+need, 3
+next, 1
+night, 1
+not, 6
+okay, 1
+our, 2
+play, 1
+please, 3
+proud, 1
+quiet, 2
+room, 1
+sad, 2
+said, 1
+sat, 4
+saw, 2
+school, 3
+she, 7
+song, 1
+started, 1
+stay, 4
+still, 1
+strength, 1
+tear, 1
+tears, 1
+that, 2
+the, 5
+their, 1
+then, 4
+there, 1
+they, 2
+though, 3
+tight, 1
+together, 5
+took, 1
+tried, 1
+very, 1
+waiting, 1
+walked, 3
+want, 1
+was, 2
+watched, 1
+way, 1
+wedding, 1
+when, 3
+whispered, 1
+will, 8
+wished, 1
+with, 1
+you, 16
+your, 3

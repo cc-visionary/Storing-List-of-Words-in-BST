@@ -1,12 +1,12 @@
-Word: about, Count: 1
-Word: are, Count: 1
-Word: fine, Count: 1
-Word: gift, Count: 1
-Word: hello, Count: 1
-Word: how, Count: 2
-Word: present, Count: 1
-Word: thank, Count: 1
-Word: the, Count: 1
-Word: today, Count: 2
-Word: tomorrow, Count: 1
-Word: you, Count: 3
+about, 1
+are, 1
+fine, 1
+gift, 1
+hello, 1
+how, 2
+present, 1
+thank, 1
+the, 1
+today, 2
+tomorrow, 1
+you, 3

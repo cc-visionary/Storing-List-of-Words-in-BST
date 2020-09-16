@@ -1,65 +1,65 @@
-Word: and, Count: 5
-Word: are, Count: 7
-Word: arrive, Count: 1
-Word: away, Count: 2
-Word: bird, Count: 1
-Word: birds, Count: 1
-Word: books, Count: 1
-Word: borders, Count: 1
-Word: build, Count: 1
-Word: caged, Count: 1
-Word: can, Count: 1
-Word: canaries, Count: 1
-Word: chicks, Count: 1
-Word: clouds, Count: 1
-Word: cold, Count: 1
-Word: come, Count: 1
-Word: day, Count: 1
-Word: die, Count: 1
-Word: difficult, Count: 1
-Word: distant, Count: 1
-Word: exotic, Count: 1
-Word: familiar, Count: 1
-Word: far, Count: 1
-Word: feed, Count: 1
-Word: flocks, Count: 1
-Word: fly, Count: 1
-Word: for, Count: 1
-Word: from, Count: 2
-Word: have, Count: 1
-Word: how, Count: 1
-Word: lands, Count: 1
-Word: leave, Count: 1
-Word: letters, Count: 1
-Word: like, Count: 2
-Word: love, Count: 1
-Word: messengers, Count: 1
-Word: migrate, Count: 1
-Word: moon, Count: 1
-Word: nests, Count: 1
-Word: one, Count: 1
-Word: only, Count: 1
-Word: others, Count: 3
-Word: page, Count: 1
-Word: prints, Count: 1
-Word: quetzal, Count: 1
-Word: sea, Count: 1
-Word: some, Count: 4
-Word: south, Count: 1
-Word: spring, Count: 1
-Word: stand, Count: 1
-Word: stars, Count: 1
-Word: sun, Count: 2
-Word: teach, Count: 1
-Word: that, Count: 2
-Word: the, Count: 8
-Word: them, Count: 4
-Word: there, Count: 1
-Word: they, Count: 4
-Word: this, Count: 1
-Word: translate, Count: 1
-Word: trees, Count: 1
-Word: warm, Count: 1
-Word: wind, Count: 1
-Word: with, Count: 2
-Word: words, Count: 4
+and, 5
+are, 7
+arrive, 1
+away, 2
+bird, 1
+birds, 1
+books, 1
+borders, 1
+build, 1
+caged, 1
+can, 1
+canaries, 1
+chicks, 1
+clouds, 1
+cold, 1
+come, 1
+day, 1
+die, 1
+difficult, 1
+distant, 1
+exotic, 1
+familiar, 1
+far, 1
+feed, 1
+flocks, 1
+fly, 1
+for, 1
+from, 2
+have, 1
+how, 1
+lands, 1
+leave, 1
+letters, 1
+like, 2
+love, 1
+messengers, 1
+migrate, 1
+moon, 1
+nests, 1
+one, 1
+only, 1
+others, 3
+page, 1
+prints, 1
+quetzal, 1
+sea, 1
+some, 4
+south, 1
+spring, 1
+stand, 1
+stars, 1
+sun, 2
+teach, 1
+that, 2
+the, 8
+them, 4
+there, 1
+they, 4
+this, 1
+translate, 1
+trees, 1
+warm, 1
+wind, 1
+with, 2
+words, 4

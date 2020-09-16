@@ -32,6 +32,6 @@ public class Word {
 
     @Override 
     public String toString() {
-        return String.format("Word: %s, Count: %d", getWord(), getWordCount());
+        return String.format("%s, %d", getWord(), getWordCount());
     }
 } 

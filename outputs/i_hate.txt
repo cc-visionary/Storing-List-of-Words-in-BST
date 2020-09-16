@@ -1,119 +1,119 @@
-Word: all, Count: 2
-Word: altered, Count: 1
-Word: always, Count: 1
-Word: and, Count: 4
-Word: astonishing, Count: 1
-Word: barely, Count: 1
-Word: being, Count: 3
-Word: blackbird, Count: 1
-Word: blitz, Count: 1
-Word: cacophonous, Count: 1
-Word: call, Count: 1
-Word: can, Count: 1
-Word: crazed, Count: 1
-Word: deep, Count: 1
-Word: delight, Count: 1
-Word: deluge, Count: 1
-Word: despoilment, Count: 1
-Word: destruction, Count: 1
-Word: din, Count: 1
-Word: disguise, Count: 1
-Word: echo, Count: 1
-Word: either, Count: 1
-Word: emerges, Count: 1
-Word: emotion, Count: 1
-Word: errors, Count: 1
-Word: even, Count: 1
-Word: ever, Count: 2
-Word: every, Count: 1
-Word: excise, Count: 1
-Word: existence, Count: 1
-Word: falters, Count: 1
-Word: fear, Count: 2
-Word: feeling, Count: 3
-Word: finally, Count: 1
-Word: for, Count: 8
-Word: from, Count: 1
-Word: fuck, Count: 1
-Word: gone, Count: 1
-Word: grief, Count: 1
-Word: ground, Count: 2
-Word: had, Count: 1
-Word: hate, Count: 1
-Word: have, Count: 1
-Word: henceforth, Count: 1
-Word: how, Count: 1
-Word: inextricable, Count: 1
-Word: into, Count: 1
-Word: its, Count: 1
-Word: joy, Count: 1
-Word: keeps, Count: 1
-Word: lament, Count: 1
-Word: love, Count: 2
-Word: loved, Count: 1
-Word: many, Count: 1
-Word: matter, Count: 1
-Word: melding, Count: 1
-Word: mere, Count: 3
-Word: mesh, Count: 1
-Word: mingling, Count: 1
-Word: more, Count: 1
-Word: noise, Count: 1
-Word: non, Count: 1
-Word: nor, Count: 1
-Word: nostalgia, Count: 1
-Word: not, Count: 5
-Word: note, Count: 1
-Word: now, Count: 1
-Word: old, Count: 1
-Word: omissions, Count: 1
-Word: ones, Count: 1
-Word: other, Count: 1
-Word: our, Count: 1
-Word: peace, Count: 1
-Word: petrified, Count: 1
-Word: rasping, Count: 1
-Word: rather, Count: 1
-Word: really, Count: 1
-Word: recall, Count: 1
-Word: regret, Count: 1
-Word: remembrance, Count: 1
-Word: remorse, Count: 1
-Word: rising, Count: 1
-Word: roots, Count: 1
-Word: rue, Count: 1
-Word: sad, Count: 1
-Word: sadder, Count: 2
-Word: seem, Count: 1
-Word: self, Count: 2
-Word: sigh, Count: 3
-Word: sighing, Count: 1
-Word: sinks, Count: 1
-Word: slides, Count: 1
-Word: sob, Count: 3
-Word: sobbing, Count: 1
-Word: some, Count: 1
-Word: sound, Count: 6
-Word: sown, Count: 1
-Word: still, Count: 1
-Word: subsides, Count: 1
-Word: surcease, Count: 1
-Word: swarm, Count: 1
-Word: sweet, Count: 1
-Word: swells, Count: 1
-Word: tangle, Count: 1
-Word: than, Count: 1
-Word: that, Count: 3
-Word: the, Count: 1
-Word: think, Count: 1
-Word: this, Count: 1
-Word: too, Count: 1
-Word: tumult, Count: 1
-Word: unredeemed, Count: 1
-Word: unsummoned, Count: 1
-Word: war, Count: 5
-Word: what, Count: 1
-Word: which, Count: 3
-Word: with, Count: 1
-Word: world, Count: 2
-Word: wrongs, Count: 1
+all, 2
+altered, 1
+always, 1
+and, 4
+astonishing, 1
+barely, 1
+being, 3
+blackbird, 1
+blitz, 1
+cacophonous, 1
+call, 1
+can, 1
+crazed, 1
+deep, 1
+delight, 1
+deluge, 1
+despoilment, 1
+destruction, 1
+din, 1
+disguise, 1
+echo, 1
+either, 1
+emerges, 1
+emotion, 1
+errors, 1
+even, 1
+ever, 2
+every, 1
+excise, 1
+existence, 1
+falters, 1
+fear, 2
+feeling, 3
+finally, 1
+for, 8
+from, 1
+fuck, 1
+gone, 1
+grief, 1
+ground, 2
+had, 1
+hate, 1
+have, 1
+henceforth, 1
+how, 1
+inextricable, 1
+into, 1
+its, 1
+joy, 1
+keeps, 1
+lament, 1
+love, 2
+loved, 1
+many, 1
+matter, 1
+melding, 1
+mere, 3
+mesh, 1
+mingling, 1
+more, 1
+noise, 1
+non, 1
+nor, 1
+nostalgia, 1
+not, 5
+note, 1
+now, 1
+old, 1
+omissions, 1
+ones, 1
+other, 1
+our, 1
+peace, 1
+petrified, 1
+rasping, 1
+rather, 1
+really, 1
+recall, 1
+regret, 1
+remembrance, 1
+remorse, 1
+rising, 1
+roots, 1
+rue, 1
+sad, 1
+sadder, 2
+seem, 1
+self, 2
+sigh, 3
+sighing, 1
+sinks, 1
+slides, 1
+sob, 3
+sobbing, 1
+some, 1
+sound, 6
+sown, 1
+still, 1
+subsides, 1
+surcease, 1
+swarm, 1
+sweet, 1
+swells, 1
+tangle, 1
+than, 1
+that, 3
+the, 1
+think, 1
+this, 1
+too, 1
+tumult, 1
+unredeemed, 1
+unsummoned, 1
+war, 5
+what, 1
+which, 3
+with, 1
+world, 2
+wrongs, 1
