@@ -1,3 +1,7 @@
+/**
+ * The Node of Binary Search Tree
+ */
+
 public class Node {
     Node left, right;
     Word word;

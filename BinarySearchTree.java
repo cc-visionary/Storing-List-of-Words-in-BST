@@ -1,3 +1,7 @@
+/**
+ * Binary Search Tree
+ */
+
 public class BinarySearchTree {
     Node root;
 

@@ -1,3 +1,7 @@
+/**
+ * stores the word and its count
+ */
+
 public class Word {
     private String word;
     private int wordCount;
